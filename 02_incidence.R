@@ -1,13 +1,14 @@
 # =============================================================================
-# 02_incidence.R  --  critical illness incidence rates from the cleaned data
+# 02_incidence.R
 # =============================================================================
 # CI incidence rate = all admitted CI claims (major and early-stage) / policy-years
 # of exposure, per 1,000 policy-years. Exposure is split by calendar year so rates
 # can be cut by year or by attained age.
 #
-# Uses the tables saved by 01_clean.R (output/_clean.rds), with the Excel headers.
+# Uses output/policy_clean.csv and output/claims_clean.csv saved by 01_clean.R (Excel headers).
 # Run from the project root after 01_clean.R:   Rscript scripts/02_incidence.R
-# Saves: output/incidence_by_year.csv, output/incidence_by_age.csv, output/plots/*.png
+# Saves: output/incidence_overall.csv, output/incidence_by_year.csv, output/incidence_by_age.csv,
+#        output/plots/*.png
 # =============================================================================
 
 library(dplyr)
@@ -16,9 +17,16 @@ library(lubridate)
 library(ggplot2)
 options(scipen = 999)
 
-cleaned <- readRDS("output/_clean.rds")
-policy  <- cleaned$policy
-claims  <- cleaned$claims
+# ---- read the cleaned CSVs saved by 01_clean.R ----
+read_clean <- function(file, date_columns) {
+  table <- read.csv(file.path("output", file), check.names = FALSE, na.strings = "")   # blank = missing
+  for (column in date_columns) table[[column]] <- as.Date(table[[column]])
+  table
+}
+policy <- read_clean("policy_clean.csv",
+                     c("Date of Birth", "Policy Issue Date", "Status Date", "Exposure Start", "Exposure End"))
+claims <- read_clean("claims_clean.csv",
+                     c("Date of Birth", "Date of Diagnosis", "Policy Issue Date"))
 
 AGE_BREAKS <- c(0, 30, 40, 50, 60, 100)
 AGE_LABELS <- c("<30", "30-39", "40-49", "50-59", "60+")
@@ -71,13 +79,6 @@ rates_by <- function(groups) {
 
 
 # =============================================================================
-# 4. HEADLINE RATE by product
-# =============================================================================
-cat("\n=== CI INCIDENCE BY PRODUCT ===\n")
-print(as.data.frame(rates_by("Product")))
-
-
-# =============================================================================
 # 4. SAVED: CI incidence overall (by product), by calendar year and by age band
 # =============================================================================
 overall <- rates_by("Product")
@@ -89,3 +90,4 @@ write.csv(by_age,  "output/incidence_by_age.csv",  row.names = FALSE)
 cat("\n=== CI INCIDENCE OVERALL ===\n");          print(as.data.frame(overall))
 cat("\n=== CI INCIDENCE BY CALENDAR YEAR ===\n"); print(as.data.frame(by_year))
 cat("\n=== CI INCIDENCE BY AGE BAND ===\n");      print(as.data.frame(by_age))
+
