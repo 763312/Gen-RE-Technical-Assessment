@@ -1,0 +1,369 @@
+"Claim Number","Policy Number","Plan Code (Dread Disease)","Product Name","Gender","Date of Birth","Claim Cause / Condition","Claim Type","Date of Diagnosis","Claim Status","Claim Amount","Policy Issue Date","Claim Exclusion","Claim Included","Pending (Sensitivity)"
+"C500156","P100034","VC20","VitalCare Critical Illness Plan","F",1956-07-07,"Stroke","Major",2027-05-21,"Paid",100000,2001-09-17,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C500038","P100044","VC20","VitalCare Critical Illness Plan","M",1968-07-18,"Cancer","Major",2010-11-30,"Paid",150000,2006-11-15,,TRUE,FALSE
+"C500037","P100046","VC20","VitalCare Critical Illness Plan","M",1977-03-27,"Blindness","Major",2021-08-20,"Paid",75000,2012-09-24,,TRUE,FALSE
+"C500128","P100048","VC20","VitalCare Critical Illness Plan","M",1962-05-19,"Coronary Artery By-pass Surgery","Major",2021-01-21,"Paid",100000,2011-10-28,,TRUE,FALSE
+"C500085","P100054","VC20","VitalCare Critical Illness Plan","F",1969-07-19,"Blindness","Major",2021-01-22,"Paid",50000,2007-04-25,,TRUE,FALSE
+"C500344","P100066","VC20","VitalCare Critical Illness Plan","F",1973-04-05,"Angioplasty","Early-stage",2022-12-21,"Paid",25000,2013-05-29,,TRUE,FALSE
+"C500320","P100077","VC20","VitalCare Critical Illness Plan","M",1958-07-24,"Angioplasty","Early-stage",2023-07-22,"Missing",62500,2005-04-18,,TRUE,FALSE
+"C500017","P100098","VC20","VitalCare Critical Illness Plan","M",1981-01-16,"Stroke","Major",2016-05-28,"Paid",75000,2013-03-26,,TRUE,FALSE
+"C500144","P100135","VC20","VitalCare Critical Illness Plan","F",1957-02-07,"Cancer","Major",2019-05-24,"Paid",250000,2013-12-09,,TRUE,FALSE
+"C500012","P100154","VC20","VitalCare Critical Illness Plan","F",1975-12-03,"Cancer","Major",2011-12-10,"Paid",50000,2010-07-19,,TRUE,FALSE
+"C500088","P100157","VC20","VitalCare Critical Illness Plan","F",1972-12-20,"Kidney Failure","Major",2025-12-29,"Paid",500000,2009-07-12,,TRUE,FALSE
+"C500299","P100159","VC20","VitalCare Critical Illness Plan","M",1992-10-03,"Multiple Sclerosis","Major",2018-01-15,"Paid",250000,2017-04-29,,TRUE,FALSE
+"C500096","P100169","VC20","VitalCare Critical Illness Plan","M",1961-11-28,"Stroke","Major",2014-10-08,"Paid",50000,2009-05-05,,TRUE,FALSE
+"C500336","P100178","VC20","VitalCare Critical Illness Plan","F",1966-11-08,"Early stage cancer","Early-stage",2015-10-29,"Paid",62500,2005-08-25,,TRUE,FALSE
+"C500024","P100200","VC20","VitalCare Critical Illness Plan","F",1981-12-17,"Cancer","Major",2023-05-24,"Paid",100000,2016-06-17,,TRUE,FALSE
+"C500326","P100227","VC20","VitalCare Critical Illness Plan","F",1958-06-12,"Carcinoma in situ (early stage)","Early-stage",2003-05-18,"Paid",75000,2004-06-18,"Diagnosis before policy issue",FALSE,FALSE
+"C500091","P100236","VC20","VitalCare Critical Illness Plan","F",1975-10-15,"Cancer","Major",2025-10-15,"Paid",200000,2011-07-13,,TRUE,FALSE
+"C500022","P100239","VC20","VitalCare Critical Illness Plan","F",1970-06-15,"Cancer","Major",2010-07-28,"Paid",100000,2007-08-29,,TRUE,FALSE
+"C500125","P100242","VC20","VitalCare Critical Illness Plan","M",1956-07-21,"Cancer","Major",2012-05-01,"Paid",200000,2005-01-13,,TRUE,FALSE
+"C500160","P100265","VC20","VitalCare Critical Illness Plan","M",1952-08-21,"Cancer","Major",2020-02-18,"Paid",50000,2008-02-27,,TRUE,FALSE
+"C500070","P100271","VC20","VitalCare Critical Illness Plan","M",1973-07-01,"Cancer","Major",2018-07-08,"Paid",200000,2014-04-07,,TRUE,FALSE
+"C500043","P100284","VC20","VitalCare Critical Illness Plan","M",1967-10-17,"Blindness","Major",2012-10-07,"Paid",50000,2005-02-15,,TRUE,FALSE
+"C500139","P100287","VC20","VitalCare Critical Illness Plan","F",1955-02-28,"Kidney Failure","Major",2015-03-11,"Paid",100000,2002-08-05,,TRUE,FALSE
+"C500331","P100294","VC20","VitalCare Critical Illness Plan","M",1955-03-21,"Early stage cancer","Early-stage",2015-06-13,"Paid",12500,2001-03-03,,TRUE,FALSE
+"C500041","P100297","VC20","VitalCare Critical Illness Plan","M",1980-04-10,"Stroke","Major",2022-04-20,"Paid",50000,2015-04-02,,TRUE,FALSE
+"C500034","P100305","VC20","VitalCare Critical Illness Plan","M",1967-12-03,"Cancer","Major",2012-01-15,"Paid",150000,2008-08-25,,TRUE,FALSE
+"C500311","P100371","VC20","VitalCare Critical Illness Plan","M",1963-03-17,"Early stage cancer","Early-stage",2015-03-11,"Paid",37500,2012-05-02,,TRUE,FALSE
+"C500056","P100373","VC20","VitalCare Critical Illness Plan","F",1962-03-16,"Stroke","Major",2011-07-11,"Paid",150000,2007-10-11,,TRUE,FALSE
+"C500327","P100399","VC20","VitalCare Critical Illness Plan","F",1963-10-04,"Angioplasty","Early-stage",2025-06-19,"Paid",18750,2015-04-29,,TRUE,FALSE
+"C500039","P100424","VC20","VitalCare Critical Illness Plan","M",1980-02-01,"Heart Attack (Myocardial Infarction)","Major",2023-09-18,"Paid",200000,2006-02-09,,TRUE,FALSE
+"C500092","P100445","VC20","VitalCare Critical Illness Plan","M",1966-07-01,"Cancer","Major",2020-02-03,"Declined",200000,2006-05-03,"Claim declined",FALSE,FALSE
+"C500007","P100452","VC20","VitalCare Critical Illness Plan","M",1985-03-31,"Heart Attack (Myocardial Infarction)","Major",2016-06-23,"Paid",100000,2015-12-06,,TRUE,FALSE
+"C500111","P100458","VC20","VitalCare Critical Illness Plan","F",1950-08-17,"Coronary Artery By-pass Surgery","Major",2007-06-18,"Paid",100000,2007-02-04,,TRUE,FALSE
+"C500303","P100500","VC20","VitalCare Critical Illness Plan","M",1991-01-29,"Heart Attack (Myocardial Infarction)","Major",2020-06-03,"Paid",150000,2013-06-28,,TRUE,FALSE
+"C500332","P100501","VC20","VitalCare Critical Illness Plan","M",1964-11-02,"Early stage cancer","Early-stage",2020-03-19,"Paid",18750,2007-11-29,,TRUE,FALSE
+"C500316","P100528","VC20","VitalCare Critical Illness Plan","M",1970-05-25,"Angioplasty","Early-stage",2015-08-28,"Paid",25000,2008-09-05,,TRUE,FALSE
+"C500109","P100531","VC20","VitalCare Critical Illness Plan","M",1974-04-04,"Cancer","Major",2025-10-06,"Paid",75000,2015-05-19,,TRUE,FALSE
+"C500315","P100532","VC20","VitalCare Critical Illness Plan","M",1957-06-22,"Early stage cancer","Early-stage",2017-01-20,"Paid",62500,2004-12-10,,TRUE,FALSE
+"C500319","P100546","VC20","VitalCare Critical Illness Plan","M",1966-06-25,"Carcinoma in situ (early stage)","Early-stage",2015-04-16,"Paid",50000,2003-04-20,,TRUE,FALSE
+"C500074","P100578","VC20","VitalCare Critical Illness Plan","M",1970-07-16,"Cancer","Major",2020-01-18,"Paid",50000,2013-11-04,,TRUE,FALSE
+"C500102","P100587","VC20","VitalCare Critical Illness Plan","M",1963-04-28,"Heart Attack (Myocardial Infarction)","Major",2014-07-11,"Paid",100000,2008-06-28,,TRUE,FALSE
+"C500101","P100599","VC20","VitalCare Critical Illness Plan","M",1956-01-30,"Cancer","Major",2008-01-10,"Paid",100000,2004-01-25,,TRUE,FALSE
+"C500306","P100601","VC20","VitalCare Critical Illness Plan","M",1963-04-13,"Angioplasty","Early-stage",2020-07-31,"Paid",25000,2002-09-24,,TRUE,FALSE
+"C500100","P100618","VC20","VitalCare Critical Illness Plan","M",1969-08-19,"Cancer","Major",2019-10-01,"Paid",200000,2005-02-04,,TRUE,FALSE
+"C500044","P100624","VC20","VitalCare Critical Illness Plan","M",1976-09-11,"Cancer","Major",2017-01-06,"Paid",75000,2013-11-01,,TRUE,FALSE
+"C600023","P100630","VC20","VitalCare Critical Illness Plan","F",1975-04-12,"Cancer","Major",2018-11-30,"Paid",100000,2005-08-20,"Diagnosis after policy ended",FALSE,FALSE
+"C500066","P100640","VC20","VitalCare Critical Illness Plan","M",1972-04-23,"Cancer","Major",2020-09-06,"Paid",100000,2020-05-16,,TRUE,FALSE
+"C500116","P100647","VC20","VitalCare Critical Illness Plan","F",1966-03-05,"Heart Attack (Myocardial Infarction)","Major",2023-10-02,"Paid",150000,2013-07-18,,TRUE,FALSE
+"C500083","P100664","VC20","VitalCare Critical Illness Plan","F",1972-01-21,"Cancer","Major",2025-04-30,"Paid",150000,2012-08-21,,TRUE,FALSE
+"C500023","P100681","VC20","VitalCare Critical Illness Plan","F",1973-05-09,"Cancer","Major",2015-11-07,"Paid",75000,2004-08-12,,TRUE,FALSE
+"C500293","P100684","VC20","VitalCare Critical Illness Plan","F",1983-10-20,"Cancer","Major",2011-08-16,"Paid",500000,2010-02-16,,TRUE,FALSE
+"C500013","P100692","VC20","VitalCare Critical Illness Plan","F",1985-04-02,"Cancer","Major",2023-06-30,"Paid",200000,2018-12-07,,TRUE,FALSE
+"C500033","P100702","VC20","VitalCare Critical Illness Plan","M",1973-03-28,"Stroke","Major",2014-02-08,"Paid",200000,2005-09-05,,TRUE,FALSE
+"C500094","P100703","VC20","VitalCare Critical Illness Plan","M",1968-06-28,"Deafness","Major",2020-03-29,"Paid",200000,2010-09-16,,TRUE,FALSE
+"C500114","P100712","VC20","VitalCare Critical Illness Plan","F",1966-09-22,"Cancer","Major",2025-10-29,"Paid",75000,2009-01-19,,TRUE,FALSE
+"C500058","P100730","VC20","VitalCare Critical Illness Plan","F",1964-06-11,"Heart Attack (Myocardial Infarction)","Major",2011-11-01,"Paid",200000,2006-09-13,,TRUE,FALSE
+"C500060","P100743","VC20","VitalCare Critical Illness Plan","M",1972-07-15,"Stroke","Major",2017-12-19,"Paid",200000,2007-11-14,,TRUE,FALSE
+"C500129","P100758","VC20","VitalCare Critical Illness Plan","M",1969-11-18,"Cancer","Major",2025-07-05,"Paid",100000,2014-07-06,,TRUE,FALSE
+"C500002","P100814","VC20","VitalCare Critical Illness Plan","M",1988-09-24,"Cancer","Major",2017-03-24,"Paid",50000,2013-05-17,,TRUE,FALSE
+"C500112","P100825","VC20","VitalCare Critical Illness Plan","F",1955-11-02,"Cancer","Major",2014-05-01,"Paid",100000,2007-09-09,,TRUE,FALSE
+"C500157","P100829","VC20","VitalCare Critical Illness Plan","F",1951-06-06,"Cancer","Major",2017-06-14,"Paid",200000,2002-05-20,,TRUE,FALSE
+"C500302","P100844","VC20","VitalCare Critical Illness Plan","M",1998-02-11,"Stroke","Major",2024-04-20,"Paid",150000,2018-06-13,,TRUE,FALSE
+"C500137","P100846","VC20","VitalCare Critical Illness Plan","M",1956-03-17,"Cancer","Major",2012-01-31,"Paid",500000,2002-09-09,,TRUE,FALSE
+"C500342","P100869","VC20","VitalCare Critical Illness Plan","M",1976-05-21,"Unspecified","Early-stage",2021-12-26,"Paid",25000,2016-11-20,,TRUE,FALSE
+"C500078","P100870","VC20","VitalCare Critical Illness Plan","F",1970-01-14,"Cancer","Major",2024-03-22,"Paid",75000,2006-09-21,,TRUE,FALSE
+"C500097","P100874","VC20","VitalCare Critical Illness Plan","M",1972-07-21,"Cancer","Major",2025-08-29,"Declined",300000,2022-10-30,"Claim declined",FALSE,FALSE
+"C500090","P100884","VC20","VitalCare Critical Illness Plan","F",1967-08-18,"Cancer","Major",2021-04-05,"Paid",100000,2008-12-18,,TRUE,FALSE
+"C500322","P100887","VC20","VitalCare Critical Illness Plan","M",1961-07-24,"Early stage cancer","Early-stage",2025-09-30,"Paid",25000,2008-09-14,,TRUE,FALSE
+"C500334","P100892","VC20","VitalCare Critical Illness Plan","M",1963-01-20,"Carcinoma in situ (early stage)","Early-stage",2011-07-06,"Pending",75000,2007-02-26,,FALSE,TRUE
+"C500300","P100896","VC20","VitalCare Critical Illness Plan","M",1996-06-30,"Cancer","Major",2022-09-12,"Paid",75000,2016-06-06,,TRUE,FALSE
+"C500312","P100900","VC20","VitalCare Critical Illness Plan","M",1949-12-30,"Carcinoma in situ (early stage)","Early-stage",2010-08-16,"Paid",25000,2004-10-27,,TRUE,FALSE
+"C500081","P100946","VC20","VitalCare Critical Illness Plan","F",1965-11-10,"Heart Attack (Myocardial Infarction)","Major",2016-06-08,"Paid",50000,2003-09-29,,TRUE,FALSE
+"C500345","P100950","VC20","VitalCare Critical Illness Plan","F",1961-02-07,"Early stage cancer","Early-stage",2020-04-06,"Paid",12500,2002-10-31,,TRUE,FALSE
+"C500087","P100986","VC20","VitalCare Critical Illness Plan","F",1954-08-15,"Cancer","Major",2007-10-05,"Paid",75000,2004-11-09,,TRUE,FALSE
+"C500110","P101001","VC20","VitalCare Critical Illness Plan","M",1968-02-10,"Stroke","Major",2027-05-20,"Paid",100000,2016-06-11,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C500143","P101013","VC20","VitalCare Critical Illness Plan","F",1954-02-21,"Stroke","Major",2015-08-11,"Pending",200000,2011-05-12,,FALSE,TRUE
+"C500003","P101046","VC20","VitalCare Critical Illness Plan","F",1992-12-16,"Cancer","Major",2024-03-11,"Paid",75000,2012-08-05,,TRUE,FALSE
+"C500047","P101064","VC20","VitalCare Critical Illness Plan","F",1974-08-21,"Cancer","Major",2021-03-18,"Paid",75000,2013-05-13,,TRUE,FALSE
+"C500029","P101096","VC20","VitalCare Critical Illness Plan","F",1981-03-07,"Stroke","Major",2024-07-30,"Paid",300000,2021-05-29,,TRUE,FALSE
+"C500161","P101097","VC20","VitalCare Critical Illness Plan","M",1960-07-28,"Cancer","Major",2025-08-23,"Paid",50000,2000-11-18,,TRUE,FALSE
+"C500290","P101103","VC20","VitalCare Critical Illness Plan","F",1994-12-27,"Cancer","Major",2021-05-15,"Paid",75000,2014-02-14,,TRUE,FALSE
+"C500050","P101108","VC20","VitalCare Critical Illness Plan","F",1967-08-21,"Heart Attack (Myocardial Infarction)","Major",2014-10-23,"Paid",75000,2009-04-20,,TRUE,FALSE
+"C500009","P101119","VC20","VitalCare Critical Illness Plan","F",1987-10-17,"Heart Attack (Myocardial Infarction)","Major",2024-04-28,"Paid",200000,2009-12-10,,TRUE,FALSE
+"C500010","P101150","VC20","VitalCare Critical Illness Plan","F",1988-03-15,"Cancer","Major",2024-01-18,"Paid",100000,2016-03-29,,TRUE,FALSE
+"C500059","P101160","VC20","VitalCare Critical Illness Plan","F",1975-06-03,"Multiple Sclerosis","Major",2020-10-27,"Paid",300000,2002-12-04,,TRUE,FALSE
+"C500121","P101179","VC20","VitalCare Critical Illness Plan","F",1965-04-30,"Multiple Sclerosis","Major",2022-09-04,"Paid",100000,2010-04-20,,TRUE,FALSE
+"C500153","P101180","VC20","VitalCare Critical Illness Plan","M",1964-04-18,"Paralysis","Major",2024-10-19,"Paid",150000,2004-01-21,,TRUE,FALSE
+"C500294","P101181","VC20","VitalCare Critical Illness Plan","F",1986-03-16,"Heart Attack (Myocardial Infarction)","Major",2016-02-01,"Paid",100000,2006-03-11,,TRUE,FALSE
+"C500107","P101185","VC20","VitalCare Critical Illness Plan","M",1957-05-25,"Cancer","Major",2009-09-10,"Paid",300000,2007-07-17,,TRUE,FALSE
+"C500028","P101194","VC20","VitalCare Critical Illness Plan","F",1965-10-06,"Coronary Artery By-pass Surgery","Major",2007-11-22,"Paid",100000,2002-06-22,,TRUE,FALSE
+"C500337","P101203","VC20","VitalCare Critical Illness Plan","F",1964-12-01,"Angioplasty","Early-stage",2015-06-30,"Paid",37500,2015-04-04,"Within 90-day waiting period",FALSE,FALSE
+"C500155","P101220","VC20","VitalCare Critical Illness Plan","F",1950-08-11,"Kidney Failure","Major",2017-10-09,"Paid",150000,2006-01-31,,TRUE,FALSE
+"C500052","P101231","VC20","VitalCare Critical Illness Plan","F",1979-05-31,"Cancer","Major",2024-08-18,"Paid",250000,2014-10-03,,TRUE,FALSE
+"C500098","P101235","VC20","VitalCare Critical Illness Plan","M",1968-12-06,"Stroke","Major",2023-04-26,"Paid",250000,2012-03-12,,TRUE,FALSE
+"C500330","P101246","VC20","VitalCare Critical Illness Plan","M",1962-08-17,"Angioplasty","Early-stage",2017-08-14,"Paid",37500,2010-03-02,,TRUE,FALSE
+"C500124","P101248","VC20","VitalCare Critical Illness Plan","M",1965-11-22,"Cancer","Major",2023-04-13,"Paid",450000,2009-03-01,,TRUE,FALSE
+"C500165","P101254","VC20","VitalCare Critical Illness Plan","M",1947-06-24,"Cancer","Major",2021-10-15,"Paid",150000,2003-01-12,,TRUE,FALSE
+"C500065","P101259","VC20","VitalCare Critical Illness Plan","M",1959-06-15,"Unspecified","Major",2009-03-22,"Paid",150000,2006-08-05,,TRUE,FALSE
+"C500054","P101270","VC20","VitalCare Critical Illness Plan","F",1970-08-29,"Coronary Artery By-pass Surgery","Major",2018-06-05,"Paid",50000,2007-07-19,,TRUE,FALSE
+"C500297","P101324","VC20","VitalCare Critical Illness Plan","F",1979-04-17,"Cancer","Major",2008-04-14,"Paid",300000,2007-09-19,,TRUE,FALSE
+"C500053","P101332","VC20","VitalCare Critical Illness Plan","F",1972-03-13,"Cancer","Major",2020-02-15,"Paid",300000,2009-05-28,,TRUE,FALSE
+"C600022","P101347","VC20","VitalCare Critical Illness Plan","F",1986-05-29,"Cancer","Major",2024-02-07,"Paid",50000,2020-09-12,"Diagnosis after policy ended",FALSE,FALSE
+"C500340","P101357","VC20","VitalCare Critical Illness Plan","F",1964-07-31,"Carcinoma in situ (early stage)","Early-stage",2017-07-13,"Paid",37500,2012-10-19,,TRUE,FALSE
+"C500086","P101364","VC20","VitalCare Critical Illness Plan","F",1967-06-29,"Cancer","Major",2018-07-10,"Paid",75000,2010-04-09,,TRUE,FALSE
+"C500295","P101367","VC20","VitalCare Critical Illness Plan","F",1983-08-08,"Stroke","Major",2010-01-03,"Paid",150000,2005-01-28,,TRUE,FALSE
+"C500055","P101378","VC20","VitalCare Critical Illness Plan","F",1959-03-11,"Cancer","Major",2007-10-05,"Paid",100000,2007-08-19,"Within 90-day waiting period",FALSE,FALSE
+"C500325","P101380","VC20","VitalCare Critical Illness Plan","M",1972-07-05,"Carcinoma in situ (early stage)","Early-stage",2022-06-04,"Paid",,2011-05-11,,TRUE,FALSE
+"C500006","P101388","VC20","VitalCare Critical Illness Plan","M",1981-04-16,"Heart Attack (Myocardial Infarction)","Major",2015-04-17,"Paid",75000,2011-11-18,,TRUE,FALSE
+"C500127","P101398","VC20","VitalCare Critical Illness Plan","M",1966-03-07,"Stroke","Major",2022-12-10,"Paid",,2007-09-22,,TRUE,FALSE
+"C500031","P101399","VC20","VitalCare Critical Illness Plan","F",1977-08-23,"Blindness","Major",2022-08-02,"Paid",75000,2006-07-31,,TRUE,FALSE
+"C500166","P101426","VC20","VitalCare Critical Illness Plan","F",1943-11-26,"Cancer","Major",2023-03-02,"Paid",100000,2003-08-17,,TRUE,FALSE
+"C500004","P101427","VC20","VitalCare Critical Illness Plan","F",1984-11-21,"Multiple Sclerosis","Major",2017-01-26,"Paid",150000,2014-05-18,,TRUE,FALSE
+"C500318","P101434","VC20","VitalCare Critical Illness Plan","M",1957-05-02,"Early stage cancer","Early-stage",2018-05-23,"Paid",12500,2014-03-14,,TRUE,FALSE
+"C500026","P101467","VC20","VitalCare Critical Illness Plan","F",1970-07-25,"Stroke","Major",2007-11-05,"Paid",150000,2009-04-03,"Diagnosis before policy issue",FALSE,FALSE
+"C500117","P101469","VC20","VitalCare Critical Illness Plan","F",1962-11-11,"Cancer","Major",2022-02-20,"Paid",150000,2005-05-18,,TRUE,FALSE
+"C500071","P101477","VC20","VitalCare Critical Illness Plan","M",1972-08-31,"Cancer","Major",2017-10-11,"Paid",75000,2011-03-14,,TRUE,FALSE
+"C500020","P101503","VC20","VitalCare Critical Illness Plan","M",1981-04-16,"Blindness","Major",2016-06-09,"Paid",100000,2012-04-30,,TRUE,FALSE
+"C500095","P101504","VC20","VitalCare Critical Illness Plan","M",1966-09-03,"Heart Attack (Myocardial Infarction)","Major",2017-10-24,"Paid",150000,2007-12-20,,TRUE,FALSE
+"C500093","P101541","VC20","VitalCare Critical Illness Plan","M",1959-03-18,"Heart Attack (Myocardial Infarction)","Major",2010-08-13,"Paid",250000,2008-04-02,,TRUE,FALSE
+"C500103","P101548","VC20","VitalCare Critical Illness Plan","M",1965-11-13,"Cancer","Major",,"Paid",150000,2005-03-23,"Missing diagnosis date",FALSE,FALSE
+"C500146","P101549","VC20","VitalCare Critical Illness Plan","M",1961-05-07,"Heart Attack (Myocardial Infarction)","Major",2025-03-28,"Paid",150000,2006-02-15,,TRUE,FALSE
+"C500140","P101567","VC20","VitalCare Critical Illness Plan","F",1962-11-06,"Stroke","Major",2025-08-02,"Paid",75000,2008-10-24,,TRUE,FALSE
+"C500011","P101578","VC20","VitalCare Critical Illness Plan","F",1982-09-16,"Cancer","Major",2020-04-13,"Paid",250000,2017-03-11,,TRUE,FALSE
+"C500301","P101589","VC20","VitalCare Critical Illness Plan","M",1978-08-07,"Coronary Artery By-pass Surgery","Major",2008-05-01,"Paid",150000,2001-09-08,,TRUE,FALSE
+"C500141","P101640","VC20","VitalCare Critical Illness Plan","F",1962-10-04,"Heart Attack (Myocardial Infarction)","Major",2025-04-03,"Paid",75000,2008-04-12,,TRUE,FALSE
+"C500321","P101683","VC20","VitalCare Critical Illness Plan","M",1971-11-07,"Angioplasty","Early-stage",2022-04-19,"Paid",125000,2007-11-25,,TRUE,FALSE
+"C500339","P101684","VC20","VitalCare Critical Illness Plan","M",1958-04-01,"Early stage cancer","Early-stage",2017-03-09,"Paid",37500,2012-02-03,,TRUE,FALSE
+"C500051","P101712","VC20","VitalCare Critical Illness Plan","F",1968-11-01,"Heart Attack (Myocardial Infarction)","Major",2014-05-16,"Paid",150000,2009-08-24,,TRUE,FALSE
+"C500343","P101747","VC20","VitalCare Critical Illness Plan","F",1972-01-11,"Early stage cancer","Early-stage",2022-09-02,"Paid",18750,2006-08-14,,TRUE,FALSE
+"C500027","P101750","VC20","VitalCare Critical Illness Plan","F",1975-08-22,"Cancer","Major",2016-06-18,"Paid",150000,2004-01-27,,TRUE,FALSE
+"C500145","P101782","VC20","VitalCare Critical Illness Plan","M",1964-12-05,"Kidney Failure","Major",2025-12-24,"Declined",150000,2008-04-02,"Claim declined",FALSE,FALSE
+"C500008","P101783","VC20","VitalCare Critical Illness Plan","F",1985-10-10,"Heart Attack (Myocardial Infarction)","Major",2021-07-26,"Paid",100000,2020-11-13,,TRUE,FALSE
+"C500163","P101797","VC20","VitalCare Critical Illness Plan","F",1949-12-14,"Kidney Failure","Major",2024-03-22,"Paid",50000,2004-03-07,,TRUE,FALSE
+"C500035","P101811","VC20","VitalCare Critical Illness Plan","M",1971-03-08,"Major Organ Transplant","Major",2011-12-21,"Paid",250000,2009-08-05,,TRUE,FALSE
+"C500150","P101819","VC20","VitalCare Critical Illness Plan","M",1961-01-02,"Stroke","Major",2024-05-04,"Paid",75000,2009-11-12,,TRUE,FALSE
+"C500014","P101833","VC20","VitalCare Critical Illness Plan","M",1987-08-17,"Coronary Artery By-pass Surgery","Major",2025-10-27,"Paid",100000,2022-12-04,,TRUE,FALSE
+"C500036","P101844","VC20","VitalCare Critical Illness Plan","M",1974-02-15,"Cancer","Major",2015-09-15,"Paid",100000,2005-01-28,,TRUE,FALSE
+"C500135","P101855","VC20","VitalCare Critical Illness Plan","M",1959-03-09,"Heart Attack (Myocardial Infarction)","Major",2018-08-13,"Paid",150000,2008-03-16,,TRUE,FALSE
+"C500335","P101889","VC20","VitalCare Critical Illness Plan","M",1969-12-20,"Angioplasty","Early-stage",2019-03-13,"Paid",12500,2017-12-24,,TRUE,FALSE
+"C500142","P101898","VC20","VitalCare Critical Illness Plan","F",1957-02-10,"Cancer","Major",2018-06-18,"Paid",250000,2004-03-02,,TRUE,FALSE
+"C500077","P101943","VC20","VitalCare Critical Illness Plan","M",1961-07-25,"Cancer","Major",2009-12-19,"Paid",100000,2004-04-22,,TRUE,FALSE
+"C500032","P101950","VC20","VitalCare Critical Illness Plan","M",1973-09-05,"Paralysis","Major",2016-11-09,"Paid",100000,2005-12-17,,TRUE,FALSE
+"C500296","P101975","VC20","VitalCare Critical Illness Plan","F",1990-11-06,"Stroke","Major",2026-10-06,"Paid",75000,2011-05-07,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C500298","P101980","VC20","VitalCare Critical Illness Plan","M",1997-04-23,"Kidney Failure","Major",2024-12-16,"Paid",150000,2016-06-27,,TRUE,FALSE
+"C500149","P101990","VC20","VitalCare Critical Illness Plan","M",1965-09-25,"Cancer","Major",2025-10-13,"Paid",100000,2004-04-09,,TRUE,FALSE
+"C500079","P102019","VC20","VitalCare Critical Illness Plan","F",1971-07-07,"Stroke","Major",2022-06-04,"Paid",250000,2010-02-03,,TRUE,FALSE
+"C500019","P102058","VC20","VitalCare Critical Illness Plan","M",1983-11-23,"Heart Attack (Myocardial Infarction)","Major",2013-03-18,"Paid",100000,2013-07-19,"Diagnosis before policy issue",FALSE,FALSE
+"C500021","P102063","VC20","VitalCare Critical Illness Plan","F",1974-12-19,"Heart Attack (Myocardial Infarction)","Major",2017-10-29,"Paid",150000,2013-09-03,,TRUE,FALSE
+"C500162","P102065","VC20","VitalCare Critical Illness Plan","M",1958-03-18,"Cancer","Major",2025-04-03,"Paid",150000,2016-04-08,,TRUE,FALSE
+"C500328","P102103","VC20","VitalCare Critical Illness Plan","F",1965-09-27,"Angioplasty","Early-stage",2018-05-30,"Paid",18750,2020-03-17,"Diagnosis before policy issue",FALSE,FALSE
+"C500304","P102110","VC20","VitalCare Critical Illness Plan","M",1991-08-10,"Cancer","Major",2017-01-12,"Paid",150000,2016-09-10,,TRUE,FALSE
+"C500030","P102125","VC20","VitalCare Critical Illness Plan","F",1981-04-01,"Coronary Artery By-pass Surgery","Major",2023-01-03,"Paid",500000,2006-06-02,,TRUE,FALSE
+"C500147","P102136","VC20","VitalCare Critical Illness Plan","M",1965-06-12,"Cancer","Major",2025-06-24,"Paid",100000,2002-12-11,,TRUE,FALSE
+"C500105","P102153","VC20","VitalCare Critical Illness Plan","M",1960-02-08,"Common Cold","Major",2012-07-05,"Paid",75000,2004-06-24,"Not a critical illness",FALSE,FALSE
+"C500133","P102180","VC20","VitalCare Critical Illness Plan","M",1965-08-19,"Stroke","Major",2024-01-12,"Paid",100000,2006-10-18,,TRUE,FALSE
+"C500048","P102203","VC20","VitalCare Critical Illness Plan","F",1968-05-11,"Cancer","Major",,"Paid",100000,2013-05-02,"Missing diagnosis date",FALSE,FALSE
+"C500045","P102209","VC20","VitalCare Critical Illness Plan","F",1972-11-03,"Multiple Sclerosis","Major",2022-07-18,"Paid",100000,2017-08-07,,TRUE,FALSE
+"C500057","P102218","VC20","VitalCare Critical Illness Plan","F",1975-11-05,"Heart Attack (Myocardial Infarction)","Major",2023-06-24,"Paid",100000,2015-09-06,,TRUE,FALSE
+"C500164","P102243","VC20","VitalCare Critical Illness Plan","F",1952-01-09,"Stroke","Major",2024-09-29,"Paid",75000,2004-03-11,,TRUE,FALSE
+"C500324","P102249","VC20","VitalCare Critical Illness Plan","M",1969-03-30,"Early stage cancer","Early-stage",2018-04-23,"Paid",12500,2005-10-21,,TRUE,FALSE
+"C500072","P102284","VC20","VitalCare Critical Illness Plan","M",1963-09-04,"Kidney Failure","Major",2012-01-19,"Paid",200000,2010-02-27,,TRUE,FALSE
+"C500291","P102294","VC20","VitalCare Critical Illness Plan","F",1982-10-10,"Cancer","Major",2010-10-08,"Paid",,2010-10-04,"Within 90-day waiting period",FALSE,FALSE
+"C500159","P102308","VC20","VitalCare Critical Illness Plan","M",1953-11-03,"Cancer","Major",2021-06-02,"Paid",100000,2000-10-20,,TRUE,FALSE
+"C500123","P102331","VC20","VitalCare Critical Illness Plan","M",1966-06-04,"Cancer","Major",2023-07-21,"Declined",150000,2010-01-28,"Claim declined",FALSE,FALSE
+"C500084","P102346","VC20","VitalCare Critical Illness Plan","F",1971-02-12,"Major Organ Transplant","Major",2022-03-17,"Paid",200000,2010-10-12,,TRUE,FALSE
+"C500067","P102355","VC20","VitalCare Critical Illness Plan","M",1978-08-02,"Coronary Artery By-pass Surgery","Major",2025-09-21,"Paid",75000,2013-08-03,,TRUE,FALSE
+"C500018","P102450","VC20","VitalCare Critical Illness Plan","M",1980-04-12,"Cancer","Major",2015-04-23,"Paid",150000,2012-05-08,,TRUE,FALSE
+"C500113","P102497","VC20","VitalCare Critical Illness Plan","F",1959-01-10,"Cancer","Major",2015-08-29,"Paid",75000,2006-11-30,,TRUE,FALSE
+"C500089","P102501","VC20","VitalCare Critical Illness Plan","F",1965-02-21,"Cancer","Major",2018-09-01,"Paid",150000,2016-11-26,,TRUE,FALSE
+"C500106","P102509","VC20","VitalCare Critical Illness Plan","M",1968-06-19,"Stroke","Major",2021-09-09,"Paid",300000,2008-12-13,,TRUE,FALSE
+"C500108","P102524","VC20","VitalCare Critical Illness Plan","M",1971-02-18,"Cancer","Major",2025-10-29,"Paid",50000,2016-11-26,,TRUE,FALSE
+"C500148","P102529","VC20","VitalCare Critical Illness Plan","M",1960-10-02,"Stroke","Major",2022-06-01,"Paid",300000,2004-10-15,,TRUE,FALSE
+"C500064","P102533","VC20","VitalCare Critical Illness Plan","M",1957-09-20,"Cancer","Major",2005-02-27,"Paid",100000,2002-05-19,,TRUE,FALSE
+"C500122","P102543","VC20","VitalCare Critical Illness Plan","M",1968-02-21,"Stroke","Major",2024-12-22,"Paid",500000,2015-10-10,,TRUE,FALSE
+"C500308","P102562","VC20","VitalCare Critical Illness Plan","F",1960-10-04,"Early stage cancer","Early-stage",2021-12-23,"Paid",37500,2018-07-28,,TRUE,FALSE
+"C500154","P102586","VC20","VitalCare Critical Illness Plan","F",1955-02-16,"Major Organ Transplant","Major",2022-06-08,"Paid",150000,2006-12-02,,TRUE,FALSE
+"C500118","P102598","VC20","VitalCare Critical Illness Plan","F",1961-01-12,"Stroke","Major",2016-08-16,"Paid",50000,2009-07-05,,TRUE,FALSE
+"C500076","P102604","VC20","VitalCare Critical Illness Plan","M",1973-10-26,"Cancer","Major",2021-05-01,"Paid",50000,2019-02-25,,TRUE,FALSE
+"C500073","P102623","VC20","VitalCare Critical Illness Plan","M",1974-08-19,"Major Organ Transplant","Major",2021-08-23,"Paid",100000,2015-10-27,,TRUE,FALSE
+"C500061","P102625","VC20","VitalCare Critical Illness Plan","M",1966-05-04,"Stroke","Major",2014-11-13,"Paid",300000,2006-06-05,,TRUE,FALSE
+"C500069","P102627","VC20","VitalCare Critical Illness Plan","M",1976-06-22,"Cancer","Major",2025-12-05,"Pending",200000,2017-12-25,,FALSE,TRUE
+"C500015","P102680","VC20","VitalCare Critical Illness Plan","M",1987-06-16,"Kidney Failure","Major",2025-09-26,"Paid",75000,2014-03-13,,TRUE,FALSE
+"C500068","P102716","VC20","VitalCare Critical Illness Plan","M",1978-09-10,"Heart Attack (Myocardial Infarction)","Major",2024-08-13,"Paid",50000,2005-07-30,,TRUE,FALSE
+"C500134","P102741","VC20","VitalCare Critical Illness Plan","M",1965-06-14,"Heart Attack (Myocardial Infarction)","Major",2024-04-07,"Paid",100000,2011-01-08,,TRUE,FALSE
+"C500099","P102760","VC20","VitalCare Critical Illness Plan","M",1960-10-21,"Cancer","Major",2012-06-16,"Paid",100000,2007-09-13,,TRUE,FALSE
+"C500333","P102763","VC20","VitalCare Critical Illness Plan","F",1968-10-18,"Carcinoma in situ (early stage)","Early-stage",2019-03-25,"Paid",18750,2011-03-24,,TRUE,FALSE
+"C500136","P102794","VC20","VitalCare Critical Illness Plan","M",1964-08-25,"Cancer","Major",2021-03-28,"Paid",75000,2012-09-25,,TRUE,FALSE
+"C500310","P102805","VC20","VitalCare Critical Illness Plan","F",1956-07-29,"Early stage cancer","Early-stage",2009-02-01,"Paid",12500,2007-02-03,,TRUE,FALSE
+"C500132","P102822","VC20","VitalCare Critical Illness Plan","M",1961-05-12,"Cancer","Major",2017-08-12,"Paid",150000,2010-09-11,,TRUE,FALSE
+"C500317","P102828","VC20","VitalCare Critical Illness Plan","M",1949-08-13,"Carcinoma in situ (early stage)","Early-stage",2010-07-30,"Paid",125000,2004-10-09,,TRUE,FALSE
+"C500309","P102835","VC20","VitalCare Critical Illness Plan","M",1959-02-20,"Angioplasty","Early-stage",2020-01-10,"Paid",37500,2001-02-27,,TRUE,FALSE
+"C500062","P102850","VC20","VitalCare Critical Illness Plan","M",1975-03-20,"Heart Attack (Myocardial Infarction)","Major",2022-10-29,"Paid",50000,2007-05-24,,TRUE,FALSE
+"C500329","P102858","VC20","VitalCare Critical Illness Plan","F",1958-10-28,"Carcinoma in situ (early stage)","Early-stage",2018-12-12,"Paid",18750,2004-12-23,,TRUE,FALSE
+"C500016","P102861","VC20","VitalCare Critical Illness Plan","M",1968-06-06,"Cancer","Major",2006-07-28,"Paid",100000,2006-02-03,,TRUE,FALSE
+"C500158","P102884","VC20","VitalCare Critical Illness Plan","F",1956-07-21,"Cancer","Major",2025-08-10,"Paid",100000,2005-01-22,,TRUE,FALSE
+"C500305","P102895","VC20","VitalCare Critical Illness Plan","M",1980-11-09,"Multiple Sclerosis","Major",2009-05-30,"Paid",200000,2008-02-13,,TRUE,FALSE
+"C500080","P102923","VC20","VitalCare Critical Illness Plan","F",1971-01-23,"Stroke","Major",2025-03-11,"Paid",50000,2010-07-15,,TRUE,FALSE
+"C500341","P102939","VC20","VitalCare Critical Illness Plan","F",1963-09-07,"Early stage cancer","Early-stage",2023-01-23,"Paid",37500,2004-02-21,,TRUE,FALSE
+"C500042","P102977","VC20","VitalCare Critical Illness Plan","M",1971-10-14,"Cancer","Major",2012-11-05,"Paid",200000,2010-08-13,,TRUE,FALSE
+"C500082","P102978","VC20","VitalCare Critical Illness Plan","F",1961-01-05,"Kidney Failure","Major",2013-09-15,"Paid",75000,2004-02-02,,TRUE,FALSE
+"C500292","P102985","VC20","VitalCare Critical Illness Plan","F",1983-11-07,"Stroke","Major",2012-05-30,"Paid",100000,2011-11-11,,TRUE,FALSE
+"C500001","P102988","VC20","VitalCare Critical Illness Plan","F",1989-12-02,"Stroke","Major",2016-03-12,"Paid",100000,2015-01-26,,TRUE,FALSE
+"C500120","P103011","VC20","VitalCare Critical Illness Plan","F",1960-03-24,"Heart Attack (Myocardial Infarction)","Major",2016-06-01,"Paid",100000,2010-12-24,,TRUE,FALSE
+"C500126","P103015","VC20","VitalCare Critical Illness Plan","M",1966-01-13,"Cancer","Major",2025-04-16,"Paid",150000,2009-11-15,,TRUE,FALSE
+"C500130","P103033","VC20","VitalCare Critical Illness Plan","M",1957-11-14,"Cancer","Major",2014-12-19,"Paid",100000,2005-10-28,,TRUE,FALSE
+"C500119","P103048","VC20","VitalCare Critical Illness Plan","F",1956-04-24,"Stroke","Major",2016-03-06,"Paid",50000,2008-01-04,,TRUE,FALSE
+"C500040","P103060","VC20","VitalCare Critical Illness Plan","M",1976-10-05,"Fracture","Major",2021-07-16,"Paid",50000,2020-12-03,"Not a critical illness",FALSE,FALSE
+"C500046","P103066","VC20","VitalCare Critical Illness Plan","F",1970-03-14,"Cancer","Major",2016-02-28,"Paid",100000,2007-01-13,,TRUE,FALSE
+"C500138","P103084","VC20","VitalCare Critical Illness Plan","F",1961-08-01,"Major Organ Transplant","Major",2024-05-21,"Paid",200000,2001-04-09,,TRUE,FALSE
+"C500005","P103124","VC20","VitalCare Critical Illness Plan","M",1988-06-11,"Stroke","Major",2020-09-12,"Paid",100000,2019-11-09,,TRUE,FALSE
+"C500075","P103125","VC20","VitalCare Critical Illness Plan","M",1975-08-13,"Cancer","Major",2026-09-07,"Paid",250000,2017-01-08,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C500115","P103144","VC20","VitalCare Critical Illness Plan","F",1965-07-31,"Cancer","Major",2023-02-17,"Paid",50000,2007-07-17,,TRUE,FALSE
+"C600018","P103146","VC20","VitalCare Critical Illness Plan","F",1969-08-30,"Cancer","Major",2015-04-20,"Paid",150000,2008-12-09,"Diagnosis after policy ended",FALSE,FALSE
+"C500338","P103149","VC20","VitalCare Critical Illness Plan","F",1969-07-28,"Angioplasty","Early-stage",2022-02-21,"Paid",25000,2009-06-11,,TRUE,FALSE
+"C500025","P103165","VC20","VitalCare Critical Illness Plan","F",1969-05-31,"Heart Attack (Myocardial Infarction)","Major",2013-05-10,"Paid",150000,2006-11-28,,TRUE,FALSE
+"C500131","P103201","VC20","VitalCare Critical Illness Plan","M",1957-03-19,"Kidney Failure","Major",2012-10-05,"Paid",100000,2002-01-23,,TRUE,FALSE
+"C500323","P103203","VC20","VitalCare Critical Illness Plan","F",1972-01-07,"Angioplasty","Early-stage",2024-12-31,"Paid",50000,2010-11-02,,TRUE,FALSE
+"C500104","P103204","VC20","VitalCare Critical Illness Plan","M",1962-04-06,"Blindness","Major",2017-01-01,"Paid",250000,2010-11-27,,TRUE,FALSE
+"C500063","P103214","VC20","VitalCare Critical Illness Plan","M",1979-11-22,"Cancer","Major",2025-03-24,"Paid",,2018-04-28,,TRUE,FALSE
+"C500307","P103223","VC20","VitalCare Critical Illness Plan","F",1966-01-12,"Early stage cancer","Early-stage",2020-01-04,"Paid",25000,2004-08-11,,TRUE,FALSE
+"C500151","P103237","VC20","VitalCare Critical Illness Plan","M",1951-12-24,"Stroke","Major",2012-09-17,"Paid",250000,2004-11-21,,TRUE,FALSE
+"C500314","P103238","VC20","VitalCare Critical Illness Plan","M",1969-06-09,"Carcinoma in situ (early stage)","Early-stage",2022-10-13,"Paid",12500,2014-06-22,,TRUE,FALSE
+"C500152","P103260","VC20","VitalCare Critical Illness Plan","M",1960-03-07,"Cancer","Major",2020-12-07,"Paid",150000,2007-11-21,,TRUE,FALSE
+"C500049","P103266","VC20","VitalCare Critical Illness Plan","F",1974-09-29,"Heart Attack (Myocardial Infarction)","Major",2020-08-29,"Paid",100000,2011-08-20,,TRUE,FALSE
+"C500313","P103292","VC20","VitalCare Critical Illness Plan","F",1953-07-15,"Angioplasty","Early-stage",2018-05-26,"Paid",37500,2009-04-25,,TRUE,FALSE
+"C500206","P103316","LS30","LifeSecure Critical Illness Rider","F",1978-10-15,"Stroke","Major",2025-12-15,"Paid",100000,2014-12-29,,TRUE,FALSE
+"C500184","P103349","LS30","LifeSecure Critical Illness Rider","F",1973-07-01,"Heart Attack (Myocardial Infarction)","Major",2014-10-03,"Paid",250000,2005-06-29,,TRUE,FALSE
+"C500277","P103362","LS30","LifeSecure Critical Illness Rider","M",1954-05-10,"Coronary Artery By-pass Surgery","Major",2014-11-08,"Paid",100000,2006-09-19,,TRUE,FALSE
+"C500279","P103364","LS30","LifeSecure Critical Illness Rider","F",1957-04-15,"Cancer","Major",2025-03-20,"Paid",150000,2014-12-29,,TRUE,FALSE
+"C500253","P103388","LS30","LifeSecure Critical Illness Rider","F",1959-03-04,"Cancer","Major",2006-05-30,"Paid",75000,2008-10-19,"Diagnosis before policy issue",FALSE,FALSE
+"C500226","P103438","LS30","LifeSecure Critical Illness Rider","F",1958-01-14,"Stroke","Major",2008-06-12,"Paid",150000,2003-08-17,,TRUE,FALSE
+"C500192","P103469","LS30","LifeSecure Critical Illness Rider","M",1979-09-22,"Heart Attack (Myocardial Infarction)","Major",2023-03-22,"Pending",75000,2010-05-13,,FALSE,TRUE
+"C500256","P103493","LS30","LifeSecure Critical Illness Rider","M",1961-05-23,"Heart Attack (Myocardial Infarction)","Major",2017-07-13,"Paid",100000,2008-05-21,,TRUE,FALSE
+"C500212","P103500","LS30","LifeSecure Critical Illness Rider","M",1967-08-30,"Cancer","Major",2014-03-01,"Paid",150000,2008-02-24,,TRUE,FALSE
+"C500211","P103522","LS30","LifeSecure Critical Illness Rider","F",1965-06-07,"Stroke","Major",2013-07-17,"Paid",150000,2007-09-02,,TRUE,FALSE
+"C500222","P103523","LS30","LifeSecure Critical Illness Rider","M",1965-07-23,"Heart Attack (Myocardial Infarction)","Major",2013-08-16,"Paid",100000,2012-05-14,,TRUE,FALSE
+"C600004","P103523","LS30","LifeSecure Critical Illness Rider","M",1965-07-23,"Stroke","Major",2014-09-20,"Paid",100000,2012-05-14,"Diagnosis after policy ended",FALSE,FALSE
+"C500254","P103555","LS30","LifeSecure Critical Illness Rider","F",1961-06-21,"Multiple Sclerosis","Major",2018-09-14,"Paid",150000,2002-09-16,,TRUE,FALSE
+"C600002","P103555","LS30","LifeSecure Critical Illness Rider","F",1961-06-21,"Stroke","Major",2019-10-19,"Paid",150000,2002-09-16,"Diagnosis after policy ended",FALSE,FALSE
+"C500170","P103594","LS30","LifeSecure Critical Illness Rider","F",1975-07-22,"Major Organ Transplant","Major",2008-08-25,"Paid",150000,2005-08-30,,TRUE,FALSE
+"C500250","P103601","LS30","LifeSecure Critical Illness Rider","F",1969-12-17,"Cancer","Major",2025-10-30,"Paid",100000,2007-09-12,,TRUE,FALSE
+"C500249","P103631","LS30","LifeSecure Critical Illness Rider","F",1954-07-02,"Stroke","Major",2011-04-04,"Paid",50000,2007-09-09,,TRUE,FALSE
+"C500267","P103635","LS30","LifeSecure Critical Illness Rider","F",1961-10-29,"Stroke","Major",2023-05-23,"Paid",150000,2010-05-21,,TRUE,FALSE
+"C500271","P103647","LS30","LifeSecure Critical Illness Rider","F",1965-10-12,"Stroke","Major",2025-10-30,"Paid",250000,2008-11-26,,TRUE,FALSE
+"C600001","P103647","LS30","LifeSecure Critical Illness Rider","F",1965-10-12,"Stroke","Major",2026-12-04,"Paid",250000,2008-11-26,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C600019","P103652","LS30","LifeSecure Critical Illness Rider","F",1967-11-14,"Cancer","Major",2015-11-08,"Paid",75000,2011-07-01,"Diagnosis after policy ended",FALSE,FALSE
+"C500255","P103665","LS30","LifeSecure Critical Illness Rider","F",1969-11-10,"Coronary Artery By-pass Surgery","Major",2025-11-11,"Paid",75000,2010-11-07,,TRUE,FALSE
+"C500218","P103673","LS30","LifeSecure Critical Illness Rider","M",1966-07-13,"Cancer","Major",2013-07-18,"Paid",300000,2010-06-15,,TRUE,FALSE
+"C500199","P103682","LS30","LifeSecure Critical Illness Rider","M",1964-11-27,"Kidney Failure","Major",2008-10-11,"Paid",150000,2008-10-03,,TRUE,FALSE
+"C500228","P103705","LS30","LifeSecure Critical Illness Rider","F",1966-11-13,"Cancer","Major",2021-10-17,"Paid",75000,2012-05-30,,TRUE,FALSE
+"C500245","P103709","LS30","LifeSecure Critical Illness Rider","M",1969-11-03,"Cancer","Major",2019-11-19,"Paid",50000,2007-09-02,,TRUE,FALSE
+"C500248","P103726","LS30","LifeSecure Critical Illness Rider","F",1966-05-13,"Cancer","Major",2025-07-28,"Paid",200000,2005-03-13,,TRUE,FALSE
+"C500232","P103751","LS30","LifeSecure Critical Illness Rider","F",1971-05-25,"Heart Attack (Myocardial Infarction)","Major",2022-10-20,"Paid",50000,2013-02-11,,TRUE,FALSE
+"C500231","P103772","LS30","LifeSecure Critical Illness Rider","F",1961-01-10,"Cancer","Major",,"Paid",100000,2006-02-19,"Missing diagnosis date",FALSE,FALSE
+"C500240","P103798","LS30","LifeSecure Critical Illness Rider","M",1958-09-19,"Cancer","Major",2009-08-26,"Paid",250000,2008-08-18,,TRUE,FALSE
+"C500215","P103847","LS30","LifeSecure Critical Illness Rider","M",1971-08-02,"Stroke","Major",2019-01-06,"Paid",75000,2006-11-15,,TRUE,FALSE
+"C500285","P103849","LS30","LifeSecure Critical Illness Rider","M",1942-04-13,"Kidney Failure","Major",2010-04-17,"Paid",200000,2000-08-14,,TRUE,FALSE
+"C500272","P103873","LS30","LifeSecure Critical Illness Rider","M",1952-11-25,"Kidney Failure","Major",2017-05-29,"Pending",250000,2003-07-07,,FALSE,TRUE
+"C500172","P103886","LS30","LifeSecure Critical Illness Rider","M",1989-05-14,"Cancer","Major",2022-08-24,"Paid",100000,2021-05-27,,TRUE,FALSE
+"C500187","P103904","LS30","LifeSecure Critical Illness Rider","F",1976-10-29,"Kidney Failure","Major",2020-10-22,"Paid",200000,2017-12-25,,TRUE,FALSE
+"C500278","P103917","LS30","LifeSecure Critical Illness Rider","M",1959-01-20,"Cancer","Major",2022-07-17,"Paid",150000,2009-02-25,,TRUE,FALSE
+"C500275","P103933","LS30","LifeSecure Critical Illness Rider","M",1959-09-23,"Cancer","Major",2021-02-18,"Paid",150000,2002-04-26,,TRUE,FALSE
+"C500266","P103944","LS30","LifeSecure Critical Illness Rider","M",1955-11-20,"Cancer","Major",2014-02-18,"Paid",100000,2007-09-18,,TRUE,FALSE
+"C500241","P103954","LS30","LifeSecure Critical Illness Rider","M",1963-11-11,"Heart Attack (Myocardial Infarction)","Major",2016-03-26,"Missing",200000,2008-07-25,,TRUE,FALSE
+"C500260","P103978","LS30","LifeSecure Critical Illness Rider","M",1964-12-15,"Stroke","Major",2021-09-19,"Paid",50000,2008-05-30,,TRUE,FALSE
+"C500233","P104034","LS30","LifeSecure Critical Illness Rider","F",1971-12-19,"Kidney Failure","Major",2025-11-04,"Paid",75000,2012-03-02,,TRUE,FALSE
+"C500284","P104064","LS30","LifeSecure Critical Illness Rider","M",1954-05-28,"Stroke","Major",2023-10-07,"Paid",300000,2011-05-12,,TRUE,FALSE
+"C500217","P104094","LS30","LifeSecure Critical Illness Rider","M",1975-09-14,"Heart Attack (Myocardial Infarction)","Major",2025-01-02,"Paid",200000,2017-01-22,,TRUE,FALSE
+"C500209","P104103","LS30","LifeSecure Critical Illness Rider","F",1972-07-16,"Stroke","Major",2020-08-11,"Paid",75000,2007-11-26,,TRUE,FALSE
+"C500265","P104117","LS30","LifeSecure Critical Illness Rider","M",1958-05-16,"Stroke","Major",2015-11-10,"Paid",500000,2006-04-27,,TRUE,FALSE
+"C500204","P104130","LS30","LifeSecure Critical Illness Rider","F",1968-04-10,"Heart Attack (Myocardial Infarction)","Major",2015-01-27,"Paid",50000,2006-12-02,,TRUE,FALSE
+"C500281","P104138","LS30","LifeSecure Critical Illness Rider","F",1942-08-31,"Cancer","Major",2009-10-29,"Paid",75000,2000-03-13,,TRUE,FALSE
+"C500237","P104181","LS30","LifeSecure Critical Illness Rider","M",1964-04-12,"Stroke","Major",2017-09-18,"Paid",75000,2007-03-17,,TRUE,FALSE
+"C500176","P104198","LS30","LifeSecure Critical Illness Rider","F",1981-08-26,"Heart Attack (Myocardial Infarction)","Major",2019-02-13,"Paid",50000,2014-09-09,,TRUE,FALSE
+"C500239","P104201","LS30","LifeSecure Critical Illness Rider","M",1966-08-29,"Cancer","Major",2019-02-20,"Paid",100000,2007-09-24,,TRUE,FALSE
+"C500238","P104214","LS30","LifeSecure Critical Illness Rider","M",1953-06-10,"Heart Attack (Myocardial Infarction)","Major",2008-02-10,"Paid",200000,2006-05-06,,TRUE,FALSE
+"C500200","P104227","LS30","LifeSecure Critical Illness Rider","M",1980-10-03,"Coronary Artery By-pass Surgery","Major",2021-02-26,"Paid",75000,2013-08-28,,TRUE,FALSE
+"C500235","P104275","LS30","LifeSecure Critical Illness Rider","M",1968-08-10,"Paralysis","Major",2023-02-01,"Paid",50000,2014-05-23,,TRUE,FALSE
+"C500224","P104307","LS30","LifeSecure Critical Illness Rider","F",1964-11-17,"Cancer","Major",2015-12-09,"Paid",250000,2009-08-14,,TRUE,FALSE
+"C500203","P104320","LS30","LifeSecure Critical Illness Rider","F",1979-08-10,"Heart Attack (Myocardial Infarction)","Major",2025-09-19,"Paid",250000,2006-08-19,,TRUE,FALSE
+"C500177","P104352","LS30","LifeSecure Critical Illness Rider","F",1971-04-09,"Cancer","Major",2008-09-23,"Paid",75000,2008-04-08,,TRUE,FALSE
+"C500229","P104360","LS30","LifeSecure Critical Illness Rider","F",1971-06-20,"Stroke","Major",2025-09-24,"Paid",250000,2008-04-24,,TRUE,FALSE
+"C500288","P104411","LS30","LifeSecure Critical Illness Rider","M",1954-08-29,"Heart Attack (Myocardial Infarction)","Major",2025-08-01,"Paid",500000,2002-05-26,,TRUE,FALSE
+"C500191","P104487","LS30","LifeSecure Critical Illness Rider","F",1978-05-18,"Cancer","Major",2022-12-28,"Paid",50000,2026-11-28,"Policy excluded (bad dates)",FALSE,FALSE
+"C600005","P104572","LS30","LifeSecure Critical Illness Rider","F",1962-01-19,"Carcinoma in situ (early stage)","Early-stage",2015-06-12,"Paid",62500,2013-03-04,"Early-stage not covered by LS30",FALSE,FALSE
+"C500201","P104637","LS30","LifeSecure Critical Illness Rider","F",1970-09-05,"Heart Attack (Myocardial Infarction)","Major",2018-12-23,"Paid",250000,2009-10-22,,TRUE,FALSE
+"C500247","P104671","LS30","LifeSecure Critical Illness Rider","M",1975-04-02,"Unspecified","Major",2025-12-19,"Paid",150000,2011-03-24,,TRUE,FALSE
+"C600008","P104682","LS30","LifeSecure Critical Illness Rider","F",1964-10-08,"Carcinoma in situ (early stage)","Early-stage",2010-08-02,"Paid",18750,2008-05-24,"Early-stage not covered by LS30",FALSE,FALSE
+"C500205","P104724","LS30","LifeSecure Critical Illness Rider","F",1961-03-24,"Heart Attack (Myocardial Infarction)","Major",2006-04-19,"Paid",250000,2001-07-11,,TRUE,FALSE
+"C500219","P104776","LS30","LifeSecure Critical Illness Rider","M",1977-10-11,"Cancer","Major",2024-06-24,"Paid",75000,2015-09-25,,TRUE,FALSE
+"C500171","P104782","LS30","LifeSecure Critical Illness Rider","F",1978-07-08,"Cancer","Major",2011-06-28,"Paid",300000,2010-03-16,,TRUE,FALSE
+"C500180","P104783","LS30","LifeSecure Critical Illness Rider","M",1965-11-13,"Heart Attack (Myocardial Infarction)","Major",2004-04-22,"Paid",300000,2002-06-28,,TRUE,FALSE
+"C500202","P104819","LS30","LifeSecure Critical Illness Rider","F",1973-03-28,"Cancer","Major",2020-01-12,"Paid",100000,2014-05-21,,TRUE,FALSE
+"C500280","P104843","LS30","LifeSecure Critical Illness Rider","F",1956-05-18,"Stroke","Major",2021-08-20,"Paid",150000,2004-10-24,,TRUE,FALSE
+"C500258","P104866","LS30","LifeSecure Critical Illness Rider","M",1968-07-01,"Cancer","Major",2023-08-09,"Paid",50000,2006-06-23,,TRUE,FALSE
+"C600020","P104882","LS30","LifeSecure Critical Illness Rider","F",1978-06-12,"Cancer","Major",2016-08-29,"Paid",75000,2010-01-15,"Diagnosis after policy ended",FALSE,FALSE
+"C600021","P104888","LS30","LifeSecure Critical Illness Rider","F",1970-11-23,"Cancer","Major",2008-05-09,"Paid",100000,2004-07-30,"Diagnosis after policy ended",FALSE,FALSE
+"C600009","P104894","LS30","LifeSecure Critical Illness Rider","M",1994-08-10,"Carcinoma in situ (early stage)","Early-stage",2018-01-31,"Paid",12500,2015-11-23,"Early-stage not covered by LS30",FALSE,FALSE
+"C500173","P104925","LS30","LifeSecure Critical Illness Rider","F",1981-12-18,"Stroke","Major",2019-06-15,"Paid",250000,2013-04-14,,TRUE,FALSE
+"C500198","P104945","LS30","LifeSecure Critical Illness Rider","M",1973-06-25,"Heart Attack (Myocardial Infarction)","Major",2013-07-10,"Missing",50000,2009-05-07,,TRUE,FALSE
+"C500242","P104972","LS30","LifeSecure Critical Illness Rider","M",1947-11-29,"Cancer","Major",2001-09-15,"Paid",75000,2001-08-09,"Within 90-day waiting period",FALSE,FALSE
+"C500185","P104993","LS30","LifeSecure Critical Illness Rider","F",1967-12-10,"Cancer","Major",2009-06-05,"Paid",100000,2005-10-09,,TRUE,FALSE
+"C500261","P105007","LS30","LifeSecure Critical Illness Rider","M",1961-02-28,"Stroke","Major",2018-12-15,"Paid",100000,2006-07-15,,TRUE,FALSE
+"C500243","P105069","LS30","LifeSecure Critical Illness Rider","M",1973-05-12,"Cancer","Major",2023-08-10,"Paid",50000,2015-01-28,,TRUE,FALSE
+"C500251","P105084","LS30","LifeSecure Critical Illness Rider","F",1965-06-14,"Heart Attack (Myocardial Infarction)","Major",2023-08-26,"Paid",100000,2007-01-31,,TRUE,FALSE
+"C500178","P105095","LS30","LifeSecure Critical Illness Rider","M",1972-11-30,"Heart Attack (Myocardial Infarction)","Major",2011-05-30,"Declined",100000,2011-02-20,"Claim declined",FALSE,FALSE
+"C500210","P105103","LS30","LifeSecure Critical Illness Rider","F",1973-04-16,"Coronary Artery By-pass Surgery","Major",2022-07-29,"Paid",150000,2011-04-21,,TRUE,FALSE
+"C500221","P105104","LS30","LifeSecure Critical Illness Rider","M",1973-09-27,"Multiple Sclerosis","Major",2021-06-03,"Paid",100000,2018-09-06,,TRUE,FALSE
+"C500183","P105110","LS30","LifeSecure Critical Illness Rider","F",1975-01-31,"Cancer","Major",2015-10-19,"Paid",50000,2004-03-23,,TRUE,FALSE
+"C500174","P105125","LS30","LifeSecure Critical Illness Rider","F",1982-12-04,"Stroke","Major",2022-09-14,"Paid",150000,2018-05-21,,TRUE,FALSE
+"C500188","P105142","LS30","LifeSecure Critical Illness Rider","F",1978-12-10,"Cancer","Major",2018-02-13,"Paid",150000,2018-07-15,"Diagnosis before policy issue",FALSE,FALSE
+"C500195","P105173","LS30","LifeSecure Critical Illness Rider","M",1983-01-09,"Cancer","Major",2023-03-29,"Paid",100000,2014-11-17,,TRUE,FALSE
+"C500287","P105219","LS30","LifeSecure Critical Illness Rider","M",1949-10-29,"Stroke","Major",2021-10-10,"Paid",100000,2005-10-06,,TRUE,FALSE
+"C500194","P105296","LS30","LifeSecure Critical Illness Rider","M",1976-07-13,"Stroke","Major",2020-06-30,"Paid",250000,2014-07-01,,TRUE,FALSE
+"C500269","P105303","LS30","LifeSecure Critical Illness Rider","F",1962-04-17,"Heart Attack (Myocardial Infarction)","Major",2023-08-28,"Paid",50000,2010-10-23,,TRUE,FALSE
+"C500286","P105306","LS30","LifeSecure Critical Illness Rider","F",1951-11-30,"Cancer","Major",2022-11-25,"Paid",150000,2005-01-29,,TRUE,FALSE
+"C500214","P105344","LS30","LifeSecure Critical Illness Rider","M",1965-08-11,"Heart Attack (Myocardial Infarction)","Major",2014-07-15,"Pending",200000,2007-06-28,,FALSE,TRUE
+"C500268","P105352","LS30","LifeSecure Critical Illness Rider","F",1963-10-02,"Cancer","Major",2024-06-06,"Paid",50000,2004-10-22,,TRUE,FALSE
+"C500283","P105376","LS30","LifeSecure Critical Illness Rider","M",1957-12-23,"Heart Attack (Myocardial Infarction)","Major",2024-04-06,"Declined",50000,2004-12-03,"Claim declined",FALSE,FALSE
+"C500197","P105380","LS30","LifeSecure Critical Illness Rider","M",1974-03-10,"Cancer","Major",2014-11-19,"Paid",50000,2006-12-21,,TRUE,FALSE
+"C500167","P105381","LS30","LifeSecure Critical Illness Rider","F",1992-01-30,"Heart Attack (Myocardial Infarction)","Major",2027-09-26,"Paid",150000,2015-08-31,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C500270","P105388","LS30","LifeSecure Critical Illness Rider","F",1952-07-28,"Unspecified","Major",2013-05-04,"Paid",100000,2011-07-26,,TRUE,FALSE
+"C600006","P105398","LS30","LifeSecure Critical Illness Rider","M",1955-08-29,"Carcinoma in situ (early stage)","Early-stage",2006-01-17,"Paid",62500,2003-11-09,"Early-stage not covered by LS30",FALSE,FALSE
+"C600007","P105422","LS30","LifeSecure Critical Illness Rider","M",1970-01-11,"Carcinoma in situ (early stage)","Early-stage",2017-12-30,"Paid",18750,2015-10-22,"Early-stage not covered by LS30",FALSE,FALSE
+"C500213","P105443","LS30","LifeSecure Critical Illness Rider","M",1965-05-26,"Cancer","Major",2011-12-23,"Paid",150000,2009-12-07,,TRUE,FALSE
+"C500273","P105462","LS30","LifeSecure Critical Illness Rider","M",1965-08-24,"Cancer","Major",2025-11-06,"Paid",100000,2007-12-11,,TRUE,FALSE
+"C500189","P105484","LS30","LifeSecure Critical Illness Rider","F",1978-08-20,"Cancer","Major",2020-07-30,"Paid",300000,2018-12-30,,TRUE,FALSE
+"C500190","P105495","LS30","LifeSecure Critical Illness Rider","F",1970-11-14,"Cancer","Major",2013-10-07,"Paid",150000,2010-10-13,,TRUE,FALSE
+"C500234","P105505","LS30","LifeSecure Critical Illness Rider","F",1960-10-24,"Major Organ Transplant","Major",2011-02-14,"Paid",300000,2007-11-23,,TRUE,FALSE
+"C500175","P105517","LS30","LifeSecure Critical Illness Rider","F",1984-05-13,"Cancer","Major",2019-11-05,"Paid",75000,2016-01-15,,TRUE,FALSE
+"C500227","P105529","LS30","LifeSecure Critical Illness Rider","F",1972-03-17,"Stroke","Major",,"Paid",150000,2001-08-16,"Missing diagnosis date",FALSE,FALSE
+"C500259","P105552","LS30","LifeSecure Critical Illness Rider","M",1965-10-23,"Heart Attack (Myocardial Infarction)","Major",2021-04-20,"Paid",150000,2013-01-13,,TRUE,FALSE
+"C500223","P105554","LS30","LifeSecure Critical Illness Rider","M",1965-05-28,"Heart Attack (Myocardial Infarction)","Major",2012-03-07,"Paid",100000,2011-12-10,"Within 90-day waiting period",FALSE,FALSE
+"C500276","P105558","LS30","LifeSecure Critical Illness Rider","M",1964-02-08,"Cancer","Major",2025-10-10,"Paid",150000,2020-11-01,,TRUE,FALSE
+"C500236","P105581","LS30","LifeSecure Critical Illness Rider","M",1955-12-24,"Heart Attack (Myocardial Infarction)","Major",2026-11-04,"Paid",75000,2003-05-26,"Diagnosis after 31-Dec-2025",FALSE,FALSE
+"C500216","P105623","LS30","LifeSecure Critical Illness Rider","M",1975-08-03,"Multiple Sclerosis","Major",2021-02-13,"Paid",250000,2011-07-21,,TRUE,FALSE
+"C500196","P105633","LS30","LifeSecure Critical Illness Rider","M",1984-05-30,"Cancer","Major",2025-02-22,"Paid",300000,2023-12-09,,TRUE,FALSE
+"C500208","P105648","LS30","LifeSecure Critical Illness Rider","F",1962-01-28,"Stroke","Major",2005-12-11,"Paid",150000,2006-06-07,"Diagnosis before policy issue",FALSE,FALSE
+"C500168","P105649","LS30","LifeSecure Critical Illness Rider","M",1987-07-26,"Heart Attack (Myocardial Infarction)","Major",2014-06-16,"Declined",100000,2014-04-14,"Within 90-day waiting period",FALSE,FALSE
+"C500193","P105700","LS30","LifeSecure Critical Illness Rider","M",1968-10-28,"Paralysis","Major",2007-09-10,"Paid",250000,2008-09-21,"Diagnosis before policy issue",FALSE,FALSE
+"C500181","P105722","LS30","LifeSecure Critical Illness Rider","M",1986-11-24,"Kidney Failure","Major",2022-09-23,"Paid",100000,2016-11-04,,TRUE,FALSE
+"C500282","P105748","LS30","LifeSecure Critical Illness Rider","M",1943-07-11,"Cancer","Major",2009-04-03,"Paid",150000,2001-12-05,,TRUE,FALSE
+"C500264","P105753","LS30","LifeSecure Critical Illness Rider","M",1957-01-16,"Cancer","Major",2013-06-29,"Paid",500000,2002-04-22,,TRUE,FALSE
+"C500207","P105755","LS30","LifeSecure Critical Illness Rider","F",1972-02-03,"Stroke","Major",2019-04-13,"Pending",150000,2009-02-04,,FALSE,TRUE
+"C500274","P105793","LS30","LifeSecure Critical Illness Rider","M",1955-01-04,"Stroke","Major",2015-07-02,"Paid",300000,2010-09-29,,TRUE,FALSE
+"C500230","P105800","LS30","LifeSecure Critical Illness Rider","F",1968-08-03,"Cancer","Major",2018-09-04,"Paid",300000,2012-03-21,,TRUE,FALSE
+"C500262","P105849","LS30","LifeSecure Critical Illness Rider","M",1964-08-21,"Heart Attack (Myocardial Infarction)","Major",2020-05-20,"Declined",50000,2015-08-04,"Claim declined",FALSE,FALSE
+"C500186","P105923","LS30","LifeSecure Critical Illness Rider","F",1967-07-19,"Cancer","Major",2011-04-19,"Declined",200000,2008-12-14,"Claim declined",FALSE,FALSE
+"C500263","P105926","LS30","LifeSecure Critical Illness Rider","M",1953-07-08,"Coronary Artery By-pass Surgery","Major",2008-11-24,"Paid",100000,2006-12-26,,TRUE,FALSE
+"C500225","P105959","LS30","LifeSecure Critical Illness Rider","F",1961-02-08,"Stroke","Major",2013-10-27,"Paid",50000,2002-06-29,,TRUE,FALSE
+"C500169","P105960","LS30","LifeSecure Critical Illness Rider","F",1983-11-06,"Stroke","Major",2016-01-23,"Paid",300000,2014-09-04,,TRUE,FALSE
+"C500244","P105982","LS30","LifeSecure Critical Illness Rider","M",1972-11-16,"Cancer","Major",2024-07-04,"Paid",100000,2001-03-21,,TRUE,FALSE
+"C500182","P106018","LS30","LifeSecure Critical Illness Rider","M",1974-09-21,"Coronary Artery By-pass Surgery","Major",2011-10-06,"Paid",100000,2010-11-11,,TRUE,FALSE
+"C500252","P106031","LS30","LifeSecure Critical Illness Rider","F",1960-06-12,"Heart Attack (Myocardial Infarction)","Major",2018-07-06,"Paid",50000,2007-09-03,,TRUE,FALSE
+"C500220","P106042","LS30","LifeSecure Critical Illness Rider","M",1973-02-17,"Cancer","Major",2018-11-10,"Paid",200000,2011-09-19,,TRUE,FALSE
+"C600003","P106042","LS30","LifeSecure Critical Illness Rider","M",1973-02-17,"Stroke","Major",2019-12-15,"Paid",200000,2011-09-19,"Diagnosis after policy ended",FALSE,FALSE
+"C500257","P106090","LS30","LifeSecure Critical Illness Rider","M",1967-09-13,"Heart Attack (Myocardial Infarction)","Major",2025-03-09,"Declined",200000,2008-09-04,"Claim declined",FALSE,FALSE
+"C500246","P106128","LS30","LifeSecure Critical Illness Rider","M",1964-02-27,"Cancer","Major",2018-12-15,"Paid",200000,2007-03-03,,TRUE,FALSE
+"C500289","P106132","LS30","LifeSecure Critical Illness Rider","M",1946-05-31,"Cancer","Major",2024-07-14,"Paid",75000,2004-02-22,,TRUE,FALSE
+"C500179","P106184","LS30","LifeSecure Critical Illness Rider","M",1986-07-09,"Cancer","Major",2025-05-31,"Paid",500000,2009-09-17,,TRUE,FALSE
+"C600015","P713365","LS30","LifeSecure Critical Illness Rider","M",1975-01-01,"Cancer","Major",2014-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600014","P714202","LS30","LifeSecure Critical Illness Rider","M",1975-01-01,"Stroke","Major",2012-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600017","P722969","VC20","VitalCare Critical Illness Plan","F",1975-01-01,"Stroke","Major",2016-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600011","P728903","VC20","VitalCare Critical Illness Plan","M",1975-01-01,"Stroke","Major",2018-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600013","P745510","LS30","LifeSecure Critical Illness Rider","F",1975-01-01,"Cancer","Major",2014-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600010","P762735","VC20","VitalCare Critical Illness Plan","F",1975-01-01,"Stroke","Major",2021-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600012","P773014","LS30","LifeSecure Critical Illness Rider","F",1975-01-01,"Cancer","Major",2015-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
+"C600016","P792068","LS30","LifeSecure Critical Illness Rider","F",1975-01-01,"Cancer","Major",2011-06-01,"Paid",100000,,"Policy not found in policy data",FALSE,FALSE
